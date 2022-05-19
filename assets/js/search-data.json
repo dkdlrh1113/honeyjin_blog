@@ -28,6 +28,17 @@
 
   
       ,"page1": {
+          "title": "Testpage",
+          "content": "안녕 . 반가워요! .",
+          "url": "https://dkdlrh1113.github.io/honeyjin_blog/testpage/",
+          "relUrl": "/testpage/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page2": {
           "title": "About Me",
           "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://dkdlrh1113.github.io/honeyjin_blog/about/",
@@ -59,7 +70,7 @@
   
 
   
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://dkdlrh1113.github.io/honeyjin_blog/robots.txt",
